@@ -1,0 +1,7 @@
+{
+  "export_host": "localhost",
+  "export_url": "http://127.0.0.1:8080/exports",
+  "username": "test_user",
+  "password": "test1234",
+  "api_key": "aaaaaaaaaaaaaaaaaaaaaaaa"
+}
